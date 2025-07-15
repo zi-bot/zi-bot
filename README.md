@@ -28,21 +28,6 @@ I'm **Software Engineer** with 5+ years of experience building scalable backend 
 
 ---
 
-## 🎓 Education  
-**Master of Computer Science**  
-Hasanuddin University, Makassar  
-
-**Bachelor of Computer Science**  
-Universitas Muhammadiyah Parepare  
-
----
-
-## 📜 Certifications  
-- **BNSP Software Development** (National Certification)  
-- **Dicoding: Machine Learning**  
-
----
-
 ## 📬 Contact  
 Let’s connect! Reach out via [LinkedIn](https://linkedin.com/in/andi-s/ ) or email: **andi.sadapotto.m@gmail.com**  
 
