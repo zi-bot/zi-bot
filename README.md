@@ -1,10 +1,13 @@
-# Hello there, Call Me Andi!
+# Hello there, Call Me Andi! 
+
 # 👨‍💻 Andi Sadapotto  
 **Software Engineer | Backend Developer | Cloud & API Specialist | AI enthusiasts**  
 📍 Parepare, Indonesia | [LinkedIn](https://linkedin.com/in/andi-s/ )  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zi-bot&label=Profile%20views&color=0e75b6&style=flat" alt="zi-bot" />
+</p>
 
 ---
-
 ## 🔍 About Me  
 I'm **Software Engineer** with 5+ years of experience building scalable backend systems, APIs, and cloud solutions. Specialized in **Go**, **Python**, and **microservices architecture**. Proven track record in startups and dynamic tech environments, delivering robust systems for healthcare, agriculture, and fintech domains.
 
