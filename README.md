@@ -9,7 +9,7 @@
 
 ---
 ## 🔍 About Me  
-I'm **Software Engineer** with 5+ years of experience building scalable backend systems, APIs, and cloud solutions. Specialized in **Go**, **Python**, and **microservices architecture**. Proven track record in startups and dynamic tech environments, delivering robust systems for healthcare, agriculture, and fintech domains.
+I'm **Software Engineer** with 8+ years of experience building scalable backend systems, APIs, and cloud solutions. Specialized in **Go**, **Python**, and **microservices architecture**. Proven track record in startups and dynamic tech environments, delivering robust systems for healthcare, agriculture, and fintech domains.
 
 ---
 
